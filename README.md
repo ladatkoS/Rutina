@@ -29,7 +29,6 @@
  - [Gateway Сервис](https://github.com/ladatkoS/Rutina_Gateway_Service.git)
  - [Сервис бизнес логики](https://github.com/ladatkoS/Rutina_Main_Service.git)
  - [Сервис авторизации](https://github.com/ladatkoS/Rutina_Auth_Service.git)
- - [Сервис авторизации](https://github.com/ladatkoS/Rutina_Auth_Service.git)
  - [Андроид сервис](https://github.com/ladatkoS/Rutina_Android.git)
  - [Сервис для Нейросети](https://github.com/AntonSlon/Rutina-neural-network.git)
 
